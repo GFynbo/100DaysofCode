@@ -17,3 +17,8 @@ Continued progress on models and briefly touched on display.
 Today I got a lot done. I implemented a ID system for the restaurants in order to maintain a unique ID for URL making and increasing the ease in which you can access your matches. In the future I plan to pass the ID through in order to add the match to the User's list. Great progress today and will pick up tomorrow.
 ***
 *Good progress, more tomorrow*
+
+## Day 5 - December 11th, 2017
+The match models is proving to be quite a headache. I seemed to have implemented it, however I somehow broke the registration process. Going to look into removing some of the old migrations and refreshing the database to see if resolves the issue.
+***
+*Decent progress, more tomorrow*
