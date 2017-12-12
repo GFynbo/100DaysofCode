@@ -22,3 +22,8 @@ Today I got a lot done. I implemented a ID system for the restaurants in order t
 The match models is proving to be quite a headache. I seemed to have implemented it, however I somehow broke the registration process. Going to look into removing some of the old migrations and refreshing the database to see if resolves the issue.
 ***
 *Decent progress, more tomorrow*
+
+## Day 6 - December 12th, 2017
+Finished the match modeling! Add the matches page to generate user specific matches so you can see what you have matched with. Added partial functionality to home page for adding matches. No option to deny a match yet and it is not dynamically showing all restaurants. Matches page and index have been updated.
+***
+*Awesome progress, more tomorrow*
