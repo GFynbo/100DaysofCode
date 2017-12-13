@@ -27,3 +27,8 @@ The match models is proving to be quite a headache. I seemed to have implemented
 Finished the match modeling! Add the matches page to generate user specific matches so you can see what you have matched with. Added partial functionality to home page for adding matches. No option to deny a match yet and it is not dynamically showing all restaurants. Matches page and index have been updated.
 ***
 *Awesome progress, more tomorrow*
+
+## Day 7 - December 13th, 2017
+Absolutely insane progress today. Managed to take what I've learned from implementing the Match system and deploy a Deny system to keep track of the restaurants that the user has said no to. Additionally, I added a second form for the home page and used the action component of the button to submit to a separate view to allow functionality of the deny button. This also adds to the users match pages and checks that they haven't already denied this restaurant. In the future I will implement a method that automatically purges old denies to give those another chance when the user feels so inclined.
+***
+*Insaneeeee progress, more tomorrow*
