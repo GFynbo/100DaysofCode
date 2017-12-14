@@ -32,3 +32,8 @@ Finished the match modeling! Add the matches page to generate user specific matc
 Absolutely insane progress today. Managed to take what I've learned from implementing the Match system and deploy a Deny system to keep track of the restaurants that the user has said no to. Additionally, I added a second form for the home page and used the action component of the button to submit to a separate view to allow functionality of the deny button. This also adds to the users match pages and checks that they haven't already denied this restaurant. In the future I will implement a method that automatically purges old denies to give those another chance when the user feels so inclined.
 ***
 *Insaneeeee progress, more tomorrow*
+
+## Day 8 - December 14th, 2017
+Not as much time to work on GoudaTime today, but still got a few things done. I was able to fix the navbar to allow for active link styling and updated the profile page. I allow the user to edit there profile via a modal from the profile page and update via post request to a different view.
+***
+*Okay progress, more tomorrow*
