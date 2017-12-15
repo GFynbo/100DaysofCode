@@ -37,3 +37,8 @@ Absolutely insane progress today. Managed to take what I've learned from impleme
 Not as much time to work on GoudaTime today, but still got a few things done. I was able to fix the navbar to allow for active link styling and updated the profile page. I allow the user to edit there profile via a modal from the profile page and update via post request to a different view.
 ***
 *Okay progress, more tomorrow*
+
+## Day 9 - December 15th, 2017
+Short day today due to finals and studying. It may have been short but it was actually incredibly productive. I was able to implement the delete feature on the matches page and update the about page to make working contact buttons. Additionally, I updated the modals to change for each restaurant thanks to javascript. Also in a huge but surprisingly easy step, I removed the deny model and manager and replaced it with a single field in the existing match model. This should reduce database calls and simply the process of keeping track.
+***
+*Okay progress, more tomorrow*
