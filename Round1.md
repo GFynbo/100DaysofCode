@@ -42,3 +42,8 @@ Not as much time to work on GoudaTime today, but still got a few things done. I 
 Short day today due to finals and studying. It may have been short but it was actually incredibly productive. I was able to implement the delete feature on the matches page and update the about page to make working contact buttons. Additionally, I updated the modals to change for each restaurant thanks to javascript. Also in a huge but surprisingly easy step, I removed the deny model and manager and replaced it with a single field in the existing match model. This should reduce database calls and simply the process of keeping track.
 ***
 *Efficient progress, more tomorrow*
+
+## Day 10 - December 16th, 2017
+Not as much big picture stuff today, mostly messing with existing styles and pages. However, I also managed to add a new dependency called django-bootstrap-3 for easier implementation of bootstrap features such as icons and forms. The new django-boostrap also allows pretty/good form validation allowing for a significantly improved signup/login form.
+***
+*Efficient progress, more tomorrow*
