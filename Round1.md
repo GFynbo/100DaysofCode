@@ -47,3 +47,8 @@ Short day today due to finals and studying. It may have been short but it was ac
 Not as much big picture stuff today, mostly messing with existing styles and pages. However, I also managed to add a new dependency called django-bootstrap-3 for easier implementation of bootstrap features such as icons and forms. The new django-boostrap also allows pretty/good form validation allowing for a significantly improved signup/login form.
 ***
 *Decent progress, more tomorrow*
+
+## Day 11 - December 17th, 2017
+Again, busy with finals and studying today so progress is definitely slower. I managed to move the database from sqlite3 to postgresql relatively painlessly. I also added django-map-widgets as a package for the website for planned location functionality in the future.
+***
+*Decent progress, more tomorrow*
