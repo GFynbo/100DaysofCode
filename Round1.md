@@ -46,4 +46,4 @@ Short day today due to finals and studying. It may have been short but it was ac
 ## Day 10 - December 16th, 2017
 Not as much big picture stuff today, mostly messing with existing styles and pages. However, I also managed to add a new dependency called django-bootstrap-3 for easier implementation of bootstrap features such as icons and forms. The new django-boostrap also allows pretty/good form validation allowing for a significantly improved signup/login form.
 ***
-*Efficient progress, more tomorrow*
+*Decent progress, more tomorrow*
