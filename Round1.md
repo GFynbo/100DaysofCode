@@ -52,3 +52,8 @@ Not as much big picture stuff today, mostly messing with existing styles and pag
 Again, busy with finals and studying today so progress is definitely slower. I managed to move the database from sqlite3 to postgresql relatively painlessly. I also added django-map-widgets as a package for the website for planned location functionality in the future.
 ***
 *Decent progress, more tomorrow*
+
+## Day 12 - December 18th, 2017
+With the last day of finals looming large on my mind, I had to stop mid-corrections on the styling of the home page and site as a whole. Tomorrow after my finals I will fix the styling and move on with getting current location and updating the user model to reflect that.
+***
+*Pretty good progress, more tomorrow*
