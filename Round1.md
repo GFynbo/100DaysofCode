@@ -57,3 +57,9 @@ Again, busy with finals and studying today so progress is definitely slower. I m
 With the last day of finals looming large on my mind, I had to stop mid-corrections on the styling of the home page and site as a whole. Tomorrow after my finals I will fix the styling and move on with getting current location and updating the user model to reflect that.
 ***
 *Pretty good progress, more tomorrow*
+
+
+## Day 13 - December 19th, 2017
+Finished finals, tried to wrap up some stuff, but am exhausted. Removed google maps in the background and in general because it takes a lot of time and was messing up the styling of the entire site. Instead I have moved forward with trying to implement the geocoding portion of the Google Maps API. Tomorrow I will try to figure that out.
+***
+*Good progress, more tomorrow*
