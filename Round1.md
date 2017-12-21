@@ -63,3 +63,8 @@ With the last day of finals looming large on my mind, I had to stop mid-correcti
 Finished finals, tried to wrap up some stuff, but am exhausted. Removed google maps in the background and in general because it takes a lot of time and was messing up the styling of the entire site. Instead I have moved forward with trying to implement the geocoding portion of the Google Maps API. Tomorrow I will try to figure that out.
 ***
 *Good progress, more tomorrow*
+
+## Day 14 - December 20th, 2017
+Updated the design and information on the readme to be current and usable by outside developers. Also added the env requirement for pip as to allow easy cloning and building of the development code. I was also able to add the map for choosing your location and updated both the user and the restaurant models in order to allow for location. I also fixed the form for adding your location as well as changing the navbar and adding a logo.
+***
+*Goudaaaa progress, more tomorrow*
