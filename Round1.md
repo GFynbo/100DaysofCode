@@ -78,3 +78,8 @@ Very little progress, attempted a little work on the maps thats about it.
 Finally back home today, sat down for about an hour and was able to implement the geolocation feature I have been trying to implement for a couple days. I allowed the user to click a button and have the browser find their location and update the hidden form so if the user wants to save it they can. Canceling it still leaves your former address in the database. I also added a button to the profile so the user can see their address and link back to the home page to change it.
 ***
 *Very efficient progress, more tomorrow*
+
+## Day 17 - December 24th, 2017
+Little slower progress today with minimal development. Although I didn't get as much done, it was still productive and my understanding of the google maps api and javascript and expanding. Productive!
+***
+*Productive progress, more tomorrow*
