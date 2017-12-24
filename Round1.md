@@ -68,3 +68,13 @@ Finished finals, tried to wrap up some stuff, but am exhausted. Removed google m
 Updated the design and information on the readme to be current and usable by outside developers. Also added the env requirement for pip as to allow easy cloning and building of the development code. I was also able to add the map for choosing your location and updated both the user and the restaurant models in order to allow for location. I also fixed the form for adding your location as well as changing the navbar and adding a logo.
 ***
 *Goudaaaa progress, more tomorrow*
+
+## Day 15 - December 22nd, 2017
+Very little progress, attempted a little work on the maps thats about it.
+***
+*Very little progress, more tomorrow*
+
+## Day 16 - December 23rd, 2017
+Finally back home today, sat down for about an hour and was able to implement the geolocation feature I have been trying to implement for a couple days. I allowed the user to click a button and have the browser find their location and update the hidden form so if the user wants to save it they can. Canceling it still leaves your former address in the database. I also added a button to the profile so the user can see their address and link back to the home page to change it.
+***
+*Very efficient progress, more tomorrow*
