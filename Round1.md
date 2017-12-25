@@ -83,3 +83,8 @@ Finally back home today, sat down for about an hour and was able to implement th
 Little slower progress today with minimal development. Although I didn't get as much done, it was still productive and my understanding of the google maps api and javascript and expanding. Productive!
 ***
 *Productive progress, more tomorrow*
+
+## Day 18 - December 25th, 2017
+Just updated the looks of the profile page today as it is Christmas.
+***
+*Little progress, more tomorrow*
