@@ -88,3 +88,8 @@ Little slower progress today with minimal development. Although I didn't get as 
 Just updated the looks of the profile page today as it is Christmas.
 ***
 *Little progress, more tomorrow*
+
+## Day 19 - December 26th, 2017
+Updated models and moved them all to individual files in the models/ directory to allow easier editing and manipulation of models in the future.
+***
+*Better progress, more tomorrow*
