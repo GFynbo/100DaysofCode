@@ -93,3 +93,8 @@ Just updated the looks of the profile page today as it is Christmas.
 Updated models and moved them all to individual files in the models/ directory to allow easier editing and manipulation of models in the future.
 ***
 *Better progress, more tomorrow*
+
+## Day 20 - December 27th, 2017
+Got a little work done on the beginning of a command to cleanse the database of matches that are more than a day old. Also added new features to be created such as the javascript needed for adding a large number of new places into the database for use by the app.
+***
+*Decent progress, more tomorrow*
