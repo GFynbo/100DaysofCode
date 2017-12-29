@@ -103,3 +103,8 @@ Got a little work done on the beginning of a command to cleanse the database of 
 Started working on a simple Java recipe manager to practice and implement Java styles and concepts.
 ***
 *Different progress, more tomorrow*
+
+## Day 22 - December 29th, 2017
+Updated the home page for showing your address and removed the update address button in the profile as it was confusing. Now started the work on sending a confirmation email upon signing up.
+***
+*Good progress, more tomorrow*
