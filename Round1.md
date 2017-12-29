@@ -98,3 +98,8 @@ Updated models and moved them all to individual files in the models/ directory t
 Got a little work done on the beginning of a command to cleanse the database of matches that are more than a day old. Also added new features to be created such as the javascript needed for adding a large number of new places into the database for use by the app.
 ***
 *Decent progress, more tomorrow*
+
+## Day 21 - December 28th, 2017
+Started working on a simple Java recipe manager to practice and implement Java styles and concepts.
+***
+*Different progress, more tomorrow*
