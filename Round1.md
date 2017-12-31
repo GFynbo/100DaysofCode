@@ -108,3 +108,8 @@ Started working on a simple Java recipe manager to practice and implement Java s
 Updated the home page for showing your address and removed the update address button in the profile as it was confusing. Now started the work on sending a confirmation email upon signing up.
 ***
 *Good progress, more tomorrow*
+
+## Day 23 - December 30th, 2017
+Got a little aesthetic work done on the home page of GoudaTime and was also able to start moving forward with my RecipeManager project in Java. I will add some more touch-ups to GoudaTime tomorrow, but the heavy lifting will be on RecipeManager.
+***
+*Decent progress, more tomorrow*
