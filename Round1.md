@@ -113,3 +113,8 @@ Updated the home page for showing your address and removed the update address bu
 Got a little aesthetic work done on the home page of GoudaTime and was also able to start moving forward with my RecipeManager project in Java. I will add some more touch-ups to GoudaTime tomorrow, but the heavy lifting will be on RecipeManager.
 ***
 *Decent progress, more tomorrow*
+
+## Day 24 - December 31st, 2017
+Updated the classes for all of the parts of the recipe and tested them briefly in the main function.
+***
+*Decent progress, more tomorrow*
