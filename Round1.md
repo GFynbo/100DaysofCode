@@ -118,3 +118,8 @@ Got a little aesthetic work done on the home page of GoudaTime and was also able
 Updated the classes for all of the parts of the recipe and tested them briefly in the main function.
 ***
 *Decent progress, more tomorrow*
+
+## Day 25 - January 1st, 2018
+Updated and added the GUI form on Intellij to display and add recipes in the future.
+***
+*Slow progress, more tomorrow*
