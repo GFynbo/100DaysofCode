@@ -123,3 +123,8 @@ Updated the classes for all of the parts of the recipe and tested them briefly i
 Updated and added the GUI form on Intellij to display and add recipes in the future.
 ***
 *Slow progress, more tomorrow*
+
+## Day 26 - January 2nd, 2018
+Stuck on a plane for six hours today may as well make the most of it. In addition to other updates I managed to create an initial model for groups and added an html page with updated views and urls. 
+***
+*Slow progress, more tomorrow*
