@@ -128,3 +128,8 @@ Updated and added the GUI form on Intellij to display and add recipes in the fut
 Stuck on a plane for six hours today may as well make the most of it. In addition to other updates I managed to create an initial model for groups and added an html page with updated views and urls. I also managed to add a fairly functional version of the directions in class for the RecipeManager. Rome wasn't built in a day, tomorrow the grind continues.
 ***
 *Superb progress, more tomorrow*
+
+## Day 27 - January 3rd, 2018
+Updated the form on the group page and added a view for the post function and updated urls and the website still needs a new form added under forms.
+***
+*Decent progress, more tomorrow*
