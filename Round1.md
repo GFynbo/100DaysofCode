@@ -133,3 +133,8 @@ Stuck on a plane for six hours today may as well make the most of it. In additio
 Updated the form on the group page and added a view for the post function and updated urls and the website still needs a new form added under forms.
 ***
 *Decent progress, more tomorrow*
+
+## Day 28 - January 4th, 2018
+Updated every class in the entire RecipeManager application giving the variables private types and return functions to give the strings. Also added a custom print function in the Recipe class for easy viewing of existing recipes.
+***
+*Fun progress, more tomorrow*
