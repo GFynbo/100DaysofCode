@@ -143,3 +143,8 @@ Updated every class in the entire RecipeManager application giving the variables
 Added the JFrame and many fields to the tabbed pane to allow users to create and view recipes easily.
 ***
 *Good progress, more tomorrow*
+
+## Day 30 - January 6th, 2018
+Continued work on the gui and added the JList functionality to display the recipes in the given list.
+***
+*Good progress, more tomorrow*
