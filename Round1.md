@@ -138,3 +138,8 @@ Updated the form on the group page and added a view for the post function and up
 Updated every class in the entire RecipeManager application giving the variables private types and return functions to give the strings. Also added a custom print function in the Recipe class for easy viewing of existing recipes.
 ***
 *Fun progress, more tomorrow*
+
+## Day 29 - January 5th, 2018
+Added the JFrame and many fields to the tabbed pane to allow users to create and view recipes easily.
+***
+*Good progress, more tomorrow*
