@@ -148,3 +148,8 @@ Added the JFrame and many fields to the tabbed pane to allow users to create and
 Continued work on the gui and added the JList functionality to display the recipes in the given list.
 ***
 *Good progress, more tomorrow*
+
+## Day 31 - January 7th, 2018
+Switched from traditional Swing and AWT to JavaFX which seems to be much more versitile and better looking. Managed to create a main window and add a menu, but functionality needs to be added. Mostly RecipeManager today.
+***
+*Fun progress, more tomorrow*
