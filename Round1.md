@@ -150,6 +150,6 @@ Continued work on the gui and added the JList functionality to display the recip
 *Good progress, more tomorrow*
 
 ## Day 31 - January 7th, 2018
-Switched from traditional Swing and AWT to JavaFX which seems to be much more versitile and better looking. Managed to create a main window and add a menu, but functionality needs to be added. Mostly RecipeManager today.
+Switched from traditional Swing and AWT to JavaFX which seems to be much more versatile and better looking. Managed to create a main window and add a menu, but functionality needs to be added. Mostly RecipeManager today.
 ***
 *Fun progress, more tomorrow*
