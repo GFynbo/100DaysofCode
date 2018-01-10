@@ -163,3 +163,8 @@ Worked on a hard programming challenge today that ate two hours of my time, howe
 Made great progress on the GUI for RecipeManager today. I added labels with IDs and a listener for the ListView to allow the updated list to display correctly, and on selection of an item it would display the appropriate information.
 ***
 *Great progress, more tomorrow*
+
+## Day 34 - January 10th, 2018
+Worked on the second screen for the JavaFX/GUI of the RecipeManager. Next the functionality for switching screens needs to be implemented.
+***
+*Decent progress, more tomorrow*
