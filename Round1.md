@@ -158,3 +158,8 @@ Switched from traditional Swing and AWT to JavaFX which seems to be much more ve
 Worked on a hard programming challenge today that ate two hours of my time, however after that I was able to work a little more on the GUI for RecipeManager.
 ***
 *Eh progress, more tomorrow*
+
+## Day 33 - January 9th, 2018
+Made great progress on the GUI for RecipeManager today. I added labels with IDs and a listener for the ListView to allow the updated list to display correctly, and on selection of an item it would display the appropriate information.
+***
+*Great progress, more tomorrow*
