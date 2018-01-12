@@ -168,3 +168,8 @@ Made great progress on the GUI for RecipeManager today. I added labels with IDs 
 Worked on the second screen for the JavaFX/GUI of the RecipeManager. Next the functionality for switching screens needs to be implemented.
 ***
 *Decent progress, more tomorrow*
+
+## Day 35 - January 11th, 2018
+Little progress today since traveling. However, I was able to add the ingredients on to the GUI recipe selection scene.
+***
+*Slow progress, more tomorrow*
