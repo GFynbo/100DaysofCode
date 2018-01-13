@@ -173,3 +173,8 @@ Worked on the second screen for the JavaFX/GUI of the RecipeManager. Next the fu
 Little progress today since traveling. However, I was able to add the ingredients on to the GUI recipe selection scene.
 ***
 *Slow progress, more tomorrow*
+
+## Day 36 - January 12th, 2018
+Terrible progress today, just updated the styling of the profile card on the profile page for GoudaTime.
+***
+*Slow progress, more tomorrow*
