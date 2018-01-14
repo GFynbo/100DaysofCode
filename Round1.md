@@ -178,3 +178,8 @@ Little progress today since traveling. However, I was able to add the ingredient
 Terrible progress today, just updated the styling of the profile card on the profile page for GoudaTime.
 ***
 *Slow progress, more tomorrow*
+
+## Day 37 - January 13th, 2018
+Updated and fixed the ingredients label in the GUI of the RecipeManager application.
+***
+*Mediocre progress, more tomorrow*
