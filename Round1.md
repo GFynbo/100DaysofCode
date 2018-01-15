@@ -183,3 +183,8 @@ Terrible progress today, just updated the styling of the profile card on the pro
 Updated and fixed the ingredients label in the GUI of the RecipeManager application.
 ***
 *Mediocre progress, more tomorrow*
+
+## Day 38 - January 14th, 2018
+Updated the group, index and profile templates for minor changes to the styles and the shown characters.
+***
+*Mediocre progress, more tomorrow*
