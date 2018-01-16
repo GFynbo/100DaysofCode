@@ -188,3 +188,8 @@ Updated and fixed the ingredients label in the GUI of the RecipeManager applicat
 Updated the group, index and profile templates for minor changes to the styles and the shown characters.
 ***
 *Mediocre progress, more tomorrow*
+
+## Day 39 - January 15th, 2018
+Did a lot of work on the GUI today. Managed to change what was displaced on the VBox the is the majority of the screen. Additionally, I added functionality to disable the menu while making a new recipe and adding some spacing for style.
+***
+*Good progress, more tomorrow*
