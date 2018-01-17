@@ -193,3 +193,8 @@ Updated the group, index and profile templates for minor changes to the styles a
 Did a lot of work on the GUI today. Managed to change what was displaced on the VBox the is the majority of the screen. Additionally, I added functionality to disable the menu while making a new recipe and adding some spacing for style.
 ***
 *Good progress, more tomorrow*
+
+## Day 40 - January 16th, 2018
+Added a back button to allow the user to back out of the create recipe screen and a second recipe to allow functionality testing on the GUI. Also switched the pane to a scroll pane to allow the user to see the whole screen without having to extend the window size.
+***
+*Decent progress, more tomorrow*
