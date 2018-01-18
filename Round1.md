@@ -198,3 +198,8 @@ Did a lot of work on the GUI today. Managed to change what was displaced on the 
 Added a back button to allow the user to back out of the create recipe screen and a second recipe to allow functionality testing on the GUI. Also switched the pane to a scroll pane to allow the user to see the whole screen without having to extend the window size.
 ***
 *Decent progress, more tomorrow*
+
+## Day 41 - January 17th, 2018
+Lotta work done today. I managed to finish creating the functionality of the new recipe button such that a user can now add any recipe they want. This required the updating of many classes to string values rather than int and arrays. Additionally, I am in the beginning steps of creating persistent storage for the recipes for users to continue to use the app to manage their recipes after closing.
+***
+*Great progress, more tomorrow*
