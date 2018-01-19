@@ -208,3 +208,8 @@ Lotta work done today. I managed to finish creating the functionality of the new
 Decent work today. Finished a big and important step in Recipe Manager as the data persistence is now functional. When you create a recipe and close the app it will save all the recipes in JSON using GSON to a tmp location.
 ***
 *Good progress, more tomorrow*
+
+## Day 43 - January 19th, 2018
+Did a lot of work on the README today to update all the work and progress I've made on the app. I also added a separator to make the recipe display more aesthetically pleasing.
+***
+*Good progress, more tomorrow*
