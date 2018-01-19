@@ -203,3 +203,8 @@ Added a back button to allow the user to back out of the create recipe screen an
 Lotta work done today. I managed to finish creating the functionality of the new recipe button such that a user can now add any recipe they want. This required the updating of many classes to string values rather than int and arrays. Additionally, I am in the beginning steps of creating persistent storage for the recipes for users to continue to use the app to manage their recipes after closing.
 ***
 *Great progress, more tomorrow*
+
+## Day 42 - January 18th, 2018
+Decent work today. Finished a big and important step in Recipe Manager as the data persistence is now functional. When you create a recipe and close the app it will save all the recipes in JSON using GSON to a tmp location.
+***
+*Good progress, more tomorrow*
