@@ -213,3 +213,8 @@ Decent work today. Finished a big and important step in Recipe Manager as the da
 Did a lot of work on the README today to update all the work and progress I've made on the app. I also added a separator to make the recipe display more aesthetically pleasing.
 ***
 *Good progress, more tomorrow*
+
+## Day 44 - January 20th, 2018
+Didn't spend as much time today as I would have liked, but I manage to add and implement the Delete feature for existing recipes pretty quickly.
+***
+*Fun progress, more tomorrow*
