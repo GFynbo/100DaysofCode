@@ -218,3 +218,8 @@ Did a lot of work on the README today to update all the work and progress I've m
 Didn't spend as much time today as I would have liked, but I manage to add and implement the Delete feature for existing recipes pretty quickly.
 ***
 *Fun progress, more tomorrow*
+
+## Day 45 - January 21st, 2018
+Was able to implement a functional version of an edit button for the recipes pretty quickly. The edit function allows you to change all aspects of the existing recipes and once the app closes it saves these changes as well.
+***
+*Quick progress, more tomorrow*
