@@ -223,3 +223,8 @@ Didn't spend as much time today as I would have liked, but I manage to add and i
 Was able to implement a functional version of an edit button for the recipes pretty quickly. The edit function allows you to change all aspects of the existing recipes and once the app closes it saves these changes as well.
 ***
 *Quick progress, more tomorrow*
+
+## Day 46 - January 22nd, 2018
+Less progress today, but was still able to get things going by fixing an annoying edit button bug that would only allow the user to edit the very first item (recipe) in the list.
+***
+*Meh progress, more tomorrow*
