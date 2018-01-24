@@ -228,3 +228,8 @@ Was able to implement a functional version of an edit button for the recipes pre
 Less progress today, but was still able to get things going by fixing an annoying edit button bug that would only allow the user to edit the very first item (recipe) in the list.
 ***
 *Meh progress, more tomorrow*
+
+## Day 47 - January 23rd, 2018
+Just updated the readme today to reflect progress.
+***
+*Sloth-like progress, more tomorrow*
