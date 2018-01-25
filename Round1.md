@@ -233,3 +233,8 @@ Less progress today, but was still able to get things going by fixing an annoyin
 Just updated the readme today to reflect progress.
 ***
 *Sloth-like progress, more tomorrow*
+
+## Day 48 - January 24th, 2018
+Tweaked the size and fitting of the FlowPane.
+***
+*Sloth-like progress, more tomorrow*
