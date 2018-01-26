@@ -238,3 +238,8 @@ Just updated the readme today to reflect progress.
 Tweaked the size and fitting of the FlowPane.
 ***
 *Sloth-like progress, more tomorrow*
+
+## Day 49 - January 25th, 2018
+Added a label to the find friend feature.
+***
+*Sloth-like progress, more tomorrow*
