@@ -243,3 +243,8 @@ Tweaked the size and fitting of the FlowPane.
 Added a label to the find friend feature.
 ***
 *Sloth-like progress, more tomorrow*
+
+## Day 50 - January 26th, 2018
+Added Profile text to the profile page of GoudaTime
+***
+*Sloth-like progress, more tomorrow*
