@@ -248,3 +248,8 @@ Added a label to the find friend feature.
 Added Profile text to the profile page of GoudaTime
 ***
 *Sloth-like progress, more tomorrow*
+
+## Day 51 - January 27th, 2018
+Working on the display of the RecipeManager so that the recipes fit on the page without horizontal scrolling.
+***
+*Okay progress, more tomorrow*
