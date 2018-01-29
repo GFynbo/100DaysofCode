@@ -253,3 +253,8 @@ Added Profile text to the profile page of GoudaTime
 Working on the display of the RecipeManager so that the recipes fit on the page without horizontal scrolling.
 ***
 *Okay progress, more tomorrow*
+
+## Day 52 - January 28th, 2018
+Worked on the GUI for RecipeManager to at least bring the GUI back to a functional state and allows the user to see the whole recipe.
+***
+*Meh progress, more tomorrow*
