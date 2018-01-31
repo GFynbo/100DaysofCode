@@ -263,3 +263,8 @@ Worked on the GUI for RecipeManager to at least bring the GUI back to a function
 Missed yesterday due to a long day. Today I started reading YDKJS (You Don't Know JS) and began a Node project to mess around.
 ***
 *Decent progress, more tomorrow*
+
+## Day 54 - January 31st, 2018
+First day with progress in a while! Today I reviewed and modified the Group model in GoudaTime and added forms for functionality after the migration. Additionally, I setup and played around with Node.js and Express.
+***
+*Great progress, more tomorrow*
