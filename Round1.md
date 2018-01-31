@@ -258,3 +258,8 @@ Working on the display of the RecipeManager so that the recipes fit on the page 
 Worked on the GUI for RecipeManager to at least bring the GUI back to a functional state and allows the user to see the whole recipe.
 ***
 *Meh progress, more tomorrow*
+
+## Day 53 - January 30th, 2018
+Missed yesterday due to a long day. Today I started reading YDKJS (You Don't Know JS) and began a Node project to mess around.
+***
+*Decent progress, more tomorrow*
