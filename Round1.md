@@ -268,3 +268,8 @@ Missed yesterday due to a long day. Today I started reading YDKJS (You Don't Kno
 First day with progress in a while! Today I reviewed and modified the Group model in GoudaTime and added forms for functionality after the migration. Additionally, I setup and played around with Node.js and Express.
 ***
 *Great progress, more tomorrow*
+
+## Day 55 - February 1st, 2018
+Did some work on a Spanish Scraper to get all the new Spanish words from our Wiki.
+***
+*Decent progress, more tomorrow*
