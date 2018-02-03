@@ -273,3 +273,8 @@ First day with progress in a while! Today I reviewed and modified the Group mode
 Did some work on a Spanish Scraper to get all the new Spanish words from our Wiki.
 ***
 *Decent progress, more tomorrow*
+
+## Day 56 - February 2nd, 2018
+Did a little work on Node and JS in general.
+***
+*Okay progress, more tomorrow*
