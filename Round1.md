@@ -278,3 +278,8 @@ Did some work on a Spanish Scraper to get all the new Spanish words from our Wik
 Did a little work on Node and JS in general.
 ***
 *Okay progress, more tomorrow*
+
+## Day 57 - February 3rd, 2018
+Worked on and wrote a Python script with regular expressions and Pandas to clean and rename thousands of CSV files.
+***
+*Good progress, more tomorrow*
