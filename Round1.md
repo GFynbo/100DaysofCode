@@ -283,3 +283,8 @@ Did a little work on Node and JS in general.
 Worked on and wrote a Python script with regular expressions and Pandas to clean and rename thousands of CSV files.
 ***
 *Good progress, more tomorrow*
+
+## Day 58 - February 4th, 2018
+SUPERBOWL!! Wrote a little javascript to prevent users from seeing the users screen on express/node without logging in.
+***
+*Decent progress, more tomorrow*
