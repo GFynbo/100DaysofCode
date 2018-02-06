@@ -288,3 +288,8 @@ Worked on and wrote a Python script with regular expressions and Pandas to clean
 SUPERBOWL!! Wrote a little javascript to prevent users from seeing the users screen on express/node without logging in.
 ***
 *Decent progress, more tomorrow*
+
+## Day 59 - February 5th, 2018
+Today was a sad, sad day. Patriots lost and the world is barely turning. However, I did add a simple nav bar in Node.
+***
+*Meh progress, more tomorrow*
