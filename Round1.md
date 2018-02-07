@@ -293,3 +293,8 @@ SUPERBOWL!! Wrote a little javascript to prevent users from seeing the users scr
 Today was a sad, sad day. Patriots lost and the world is barely turning. However, I did add a simple nav bar in Node.
 ***
 *Meh progress, more tomorrow*
+
+## Day 60 - February 6th, 2018
+Today I learned a little more about javascript and added a todolist page on my Express and Node application. Doesn't do much right now, but I have big future plans!
+***
+*Good progress, more tomorrow*
