@@ -298,3 +298,8 @@ Today was a sad, sad day. Patriots lost and the world is barely turning. However
 Today I learned a little more about javascript and added a todolist page on my Express and Node application. Doesn't do much right now, but I have big future plans!
 ***
 *Good progress, more tomorrow*
+
+## Day 61 - February 7th, 2018
+Just did a little touchup on the menu to add the todolist I made yesterday.
+***
+*Bad progress, more tomorrow*
