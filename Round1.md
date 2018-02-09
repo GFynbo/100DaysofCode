@@ -303,3 +303,8 @@ Today I learned a little more about javascript and added a todolist page on my E
 Just did a little touchup on the menu to add the todolist I made yesterday.
 ***
 *Bad progress, more tomorrow*
+
+## Day 62 - February 8th, 2018
+Updated the review class for the recipe manager so that the user can also enter a written review, I plan on adding a GUI feature to implement this soon.
+***
+*Decent progress, more tomorrow*
