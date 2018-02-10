@@ -308,3 +308,8 @@ Just did a little touchup on the menu to add the todolist I made yesterday.
 Updated the review class for the recipe manager so that the user can also enter a written review, I plan on adding a GUI feature to implement this soon.
 ***
 *Decent progress, more tomorrow*
+
+## Day 63 - February 9th, 2018
+Just added a little menu to the footer of the Node.js/Express messing around application.
+***
+*Slow progress, more tomorrow*
