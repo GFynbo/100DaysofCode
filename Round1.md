@@ -313,3 +313,8 @@ Updated the review class for the recipe manager so that the user can also enter 
 Just added a little menu to the footer of the Node.js/Express messing around application.
 ***
 *Slow progress, more tomorrow*
+
+## Day 64 - February 10th, 2018
+Worked on adding a receive emails option to the user profile on GoudaTime. This includes the ability to change and update it on the profile page. It is incomplete as it stands right now, the modal does not update the database.
+***
+*Good progress, more tomorrow*
