@@ -318,3 +318,8 @@ Just added a little menu to the footer of the Node.js/Express messing around app
 Worked on adding a receive emails option to the user profile on GoudaTime. This includes the ability to change and update it on the profile page. It is incomplete as it stands right now, the modal does not update the database.
 ***
 *Good progress, more tomorrow*
+
+## Day 65 - February 11th, 2018
+Just fiddled with the forms and models in GoudaTime to try and use the checkbox for receiving newletter emails.
+***
+*Bad progress, more tomorrow*
