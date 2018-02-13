@@ -323,3 +323,8 @@ Worked on adding a receive emails option to the user profile on GoudaTime. This 
 Just fiddled with the forms and models in GoudaTime to try and use the checkbox for receiving newletter emails.
 ***
 *Bad progress, more tomorrow*
+
+## Day 66 - February 12th, 2018
+Fiddled and played with Node and just ended up changing the menu a little.
+***
+*Bad progress, more tomorrow*
