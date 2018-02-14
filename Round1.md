@@ -328,3 +328,8 @@ Just fiddled with the forms and models in GoudaTime to try and use the checkbox 
 Fiddled and played with Node and just ended up changing the menu a little.
 ***
 *Bad progress, more tomorrow*
+
+## Day 67 - February 13th, 2018
+Tiny menu change today.
+***
+*Bad progress, more tomorrow*
