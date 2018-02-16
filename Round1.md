@@ -333,3 +333,8 @@ Fiddled and played with Node and just ended up changing the menu a little.
 Tiny menu change today.
 ***
 *Bad progress, more tomorrow*
+
+## Day 68 - February 15th, 2018
+Worked through some of the examples on YDKJS to familiarize myself more with JavaScript.
+***
+*Okay progress, more tomorrow*
