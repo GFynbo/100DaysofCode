@@ -338,3 +338,8 @@ Tiny menu change today.
 Worked through some of the examples on YDKJS to familiarize myself more with JavaScript.
 ***
 *Okay progress, more tomorrow*
+
+## Day 69 - February 17th, 2018
+Updated the home and profile pages on GoudaTime to allow users to see their current location and change the newsletter option.
+***
+*Okay progress, more tomorrow*
