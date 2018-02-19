@@ -343,3 +343,8 @@ Worked through some of the examples on YDKJS to familiarize myself more with Jav
 Updated the home and profile pages on GoudaTime to allow users to see their current location and change the newsletter option.
 ***
 *Okay progress, more tomorrow*
+
+## Day 70 - February 18th, 2018
+Added some accessibility and profile page changes to make the site easier and more accessible.
+***
+*Okay progress, more tomorrow*
