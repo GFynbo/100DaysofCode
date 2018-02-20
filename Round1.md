@@ -353,3 +353,8 @@ Added some accessibility and profile page changes to make the site easier and mo
 Update the checkbox for receiving emails on the profile so that the user can more easily change or update their choice.
 ***
 *Slow progress, more tomorrow*
+
+## Day 72 - February 20th, 2018
+Started the Mozilla tutorial for Node and Express so I can get a better understanding of Mongo and Node and JS in general. On part 3.
+***
+*Good progress, more tomorrow*
