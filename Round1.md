@@ -348,3 +348,8 @@ Updated the home and profile pages on GoudaTime to allow users to see their curr
 Added some accessibility and profile page changes to make the site easier and more accessible.
 ***
 *Okay progress, more tomorrow*
+
+## Day 71 - February 19th, 2018
+Update the checkbox for receiving emails on the profile so that the user can more easily change or update their choice.
+***
+*Slow progress, more tomorrow*
