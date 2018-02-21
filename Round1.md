@@ -358,3 +358,8 @@ Update the checkbox for receiving emails on the profile so that the user can mor
 Started the Mozilla tutorial for Node and Express so I can get a better understanding of Mongo and Node and JS in general. On part 3.
 ***
 *Good progress, more tomorrow*
+
+## Day 73 - February 21st, 2018
+Just updated the styling and view of the TodoList part on Messing around to play with PUG views a little more.
+***
+*Eh progress, more tomorrow*
