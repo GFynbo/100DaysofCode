@@ -363,3 +363,8 @@ Started the Mozilla tutorial for Node and Express so I can get a better understa
 Just updated the styling and view of the TodoList part on Messing around to play with PUG views a little more.
 ***
 *Eh progress, more tomorrow*
+
+## Day 74 - February 22nd, 2018
+Added Mongoose to Mess and am continuing my work with Node and Mozilla tutorial.
+***
+*Eh progress, more tomorrow*
