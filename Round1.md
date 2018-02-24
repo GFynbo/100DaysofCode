@@ -368,3 +368,8 @@ Just updated the styling and view of the TodoList part on Messing around to play
 Added Mongoose to Mess and am continuing my work with Node and Mozilla tutorial.
 ***
 *Eh progress, more tomorrow*
+
+## Day 75 - February 23rd, 2018
+Just updated a small feature on messing around on Node.
+***
+*Terrible progress, more tomorrow*
