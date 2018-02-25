@@ -373,3 +373,8 @@ Added Mongoose to Mess and am continuing my work with Node and Mozilla tutorial.
 Just updated a small feature on messing around on Node.
 ***
 *Terrible progress, more tomorrow*
+
+## Day 76 - February 24th, 2018
+Began the implementation of Mongoose into the Mess app in Node and learned more about defining and using models with MongoDB.
+***
+*Bad progress, more tomorrow*
