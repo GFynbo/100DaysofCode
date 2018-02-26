@@ -378,3 +378,8 @@ Just updated a small feature on messing around on Node.
 Began the implementation of Mongoose into the Mess app in Node and learned more about defining and using models with MongoDB.
 ***
 *Bad progress, more tomorrow*
+
+## Day 77 - February 25th, 2018
+Worked on CS411 project with the team.
+***
+*No progress, more tomorrow*
