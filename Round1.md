@@ -383,3 +383,8 @@ Began the implementation of Mongoose into the Mess app in Node and learned more 
 Worked on CS411 project with the team.
 ***
 *No progress, more tomorrow*
+
+## Day 78 & 79 - March 5th, 2018
+Worked on the Mozilla tutorial and implemented the models in the Mess application. Hopefully, this will be used to implement a todo list in the near future. On Chapter 4 of the Mozilla tutorial.
+***
+*Great progress, more tomorrow*
