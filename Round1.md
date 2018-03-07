@@ -393,3 +393,8 @@ Worked on the Mozilla tutorial and implemented the models in the Mess applicatio
 Updated the Mess app and continued work on the Mozilla tutorial and began controller implementation.
 ***
 *Good progress, more tomorrow*
+
+## Day 81 - March 7th, 2018
+Further work on Mess app. Implemented the rest of the controllers and routes and dummy functions. On to chapter 5 in the Mozilla tutorial.
+***
+*Fun progress, more tomorrow*
