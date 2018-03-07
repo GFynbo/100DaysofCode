@@ -388,3 +388,8 @@ Worked on CS411 project with the team.
 Worked on the Mozilla tutorial and implemented the models in the Mess application. Hopefully, this will be used to implement a todo list in the near future. On Chapter 4 of the Mozilla tutorial.
 ***
 *Great progress, more tomorrow*
+
+## Day 80 - March 6th, 2018
+Updated the Mess app and continued work on the Mozilla tutorial and began controller implementation.
+***
+*Good progress, more tomorrow*
